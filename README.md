@@ -2,6 +2,8 @@
 
 Aplicação desenvolvida durante o NLW Ignite da Rocketseat
 
+Link para acessar o resultado: [Feedget](https://nlw-return-impulse-1qomktysw-carolrosatto.vercel.app)
+
 ## Funcionalidades
 - - -
 - Widget onde o usuário pode enviar feedbacks (alerta de bugs, ideias, ou outros assuntos) através de formulário;
@@ -51,12 +53,12 @@ Aplicação desenvolvida durante o NLW Ignite da Rocketseat
 
 ### Versão mobile
 
-![Feedget Mobile](web\src\assets\feedget_mobile.gif "Versão mobile")
+![Feedget Mobile](web/src/assets/feedget_mobile.gif "Versão mobile")
 
 ### Versão web
 
-![Feedget Web](web\src\assets\feedget_web.gif "Versão web")
+![Feedget Web](web/src/assets/feedget_web.gif "Versão web")
 
 ### E-mail recebido pelo administrador
 
-![Feedget E-mail](web\src\assets\email_feedget.png "E-mail recebido")
+![Feedget E-mail](web/src/assets/email_feedget.png "E-mail recebido")
