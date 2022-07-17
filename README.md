@@ -5,14 +5,13 @@ Aplicação desenvolvida durante o NLW Ignite da Rocketseat
 Link para acessar o resultado: [Feedget](https://nlw-return-impulse-1qomktysw-carolrosatto.vercel.app)
 
 ## Funcionalidades
-- - -
+
 - Widget onde o usuário pode enviar feedbacks (alerta de bugs, ideias, ou outros assuntos) através de formulário;
 - Tirar um print da tela e que será enviada junto com o feedback;
 - O administrador do Widget recebe um e-mail com o feedback e a imagem;
 - Pode ser acessado via browser ou mobile. 
 
 ## Tecnologias utilizadas
-- - - 
 
 - [TypeScript](https://www.typescriptlang.org)
 
@@ -49,7 +48,6 @@ Link para acessar o resultado: [Feedget](https://nlw-return-impulse-1qomktysw-ca
 - [expo-file-system](https://www.npmjs.com/package/expo-file-system)
 
 ## Overview das telas
-- - -
 
 ### Versão mobile
 
